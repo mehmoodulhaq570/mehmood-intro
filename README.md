@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, JavaScript, Tailwind Css, Java**
 
-- 📫 How to reach me **aaltamashzaheer@gmail.com**
+- 📫 How to reach me **mehmoodulhaq1040@gmail.com**
 
 
 
